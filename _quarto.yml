@@ -1,0 +1,11 @@
+project:
+  title: "Quarto Presentation"
+
+format:
+  revealjs:
+    footer: Add your footer
+    theme: default
+    transition: slide
+
+
+
